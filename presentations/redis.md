@@ -24,15 +24,18 @@
 
 
 ## 2. Redis
+### 2.1. Main Attributes
 - one of the most commonly used
 - key-value store(string, string)
 - not just another key-value store(list,set,sortedset,hash,stream,etc)
 - key expiration
-- atomic operations:
+
+#### 2.1.1. Atomic Operations
   - GET, SET
   - LPOP, RPUSH
   - LRANGE
-- high-availability and sharding:
+
+### 2.2. High-Availability and Sharding
   - standalone upstream/replica (startup topology refresh)
   - upstream/replica with Sentinel (runtime topology refresh)
   - static upstream/replica (topology refresh is off)
