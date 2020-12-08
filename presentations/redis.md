@@ -45,7 +45,7 @@
 - based on [netty](http://netty.io/) and [Project Reactor](https://projectreactor.io/)
 - synchronous API
 - asynchronous API
-- reactive API :hand_over_mouth:
+- reactive API :muscle:
 
 ## 4. Spring Data Redis Integration
 - provides a common adapter based on Redis over the client implementations
