@@ -4,6 +4,7 @@
 - relational databases are so 90s - engineered for another scenario both HW & SW
 - data storage demand increased significantly in the last two decades
 - relational databases are not perfect for the data partitioning
+
 ```markdown
 **Scalability - CAP Theorem**
 1. C - Consistency
