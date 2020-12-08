@@ -4,22 +4,23 @@
 - relational databases are so 90s - engineered for another scenario both HW & SW
 - data storage demand increased significantly in the last two decades
 - relational databases are not perfect for the data partitioning
-
+```markdown
 **Scalability - CAP Theorem**
 1. C - Consistency
 2. A - Availability
 3. P - Partition Tolerance
 
-**Pick two**
-- CA - <span style="color:grey">relational databases</span>
+**Pick Two Rule**
+- CA - <span style="color:olive">relational databases</span>
 - AP - <span style="color:steelblue">Dynamo</span>, <span style="color:seagreen">Cassandra</span>, <span style="color:maroon">SimpleDB</span>
-- *CP* - <span style="color:maroon">MongoDB</span>, <span style="color:seagreen">BigTable</span>, <span style="color:steelblue">Redis</span>
+- *CP* - <span style="color:steelblue">Redis</span>, <span style="color:seagreen">BigTable</span>, <span style="color:maroon">MongoDB</span>
 
-**Store Types**
+**Data Store Types**
 - <span style="color:steelblue">Key-Value</span>
 - <span style="color:maroon">Document-Oriented</span>
 - <span style="color:seagreen">Column-Oriented/Tabular</span>
-- <span style="color:grey">Relational</span>
+- <span style="color:olive">Relational</span>
+```
 
 ### Redis
 - one of the most commonly used
