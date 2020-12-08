@@ -12,14 +12,14 @@
 
 **Pick two**
 - CA - <span style="color:grey">relational databases</span>
-- AP - <span style="color:steelblue">Dynamo</span>, <span style="color:grass">Cassandra</span>, <span style="color:aqua">SimpleDB</span>
-- *CP* - <span style="color:aqua">MongoDB</span>, <span style="color:grass">BigTable</span>, <span style="color:steelblue">**Redis**</span>
+- AP - <span style="color:steelblue">Dynamo</span>, <span style="color:seagreen">Cassandra</span>, <span style="color:maroon">SimpleDB</span>
+- *CP* - <span style="color:maroon">MongoDB</span>, <span style="color:seagreen">BigTable</span>, <span style="color:steelblue">Redis</span>
 
 **Store Types**
-- <span style="steelblue">Key-Value</span>
-- <span style="aqua">Document-Oriented</span>
-- <span style="grass">Column-Oriented/Tabular</span>
-- <span style="grey">Relational</span>
+- <span style="color:steelblue">Key-Value</span>
+- <span style="color:maroon">Document-Oriented</span>
+- <span style="color:seagreen">Column-Oriented/Tabular</span>
+- <span style="color:grey">Relational</span>
 
 ### Redis
 - one of the most commonly used
