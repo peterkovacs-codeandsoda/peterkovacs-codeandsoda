@@ -10,7 +10,7 @@
 
 ### 2.1. Ancient Era
 - 600 BC - Scytale: proper size rod + leather strip
-- 60 BC - Caesar substitution cypher: shift characters by 3 places
+- 60 BC - Caesar substitution cipher: shift characters by 3 places
 
 ![Scytale](https://upload.wikimedia.org/wikipedia/commons/5/51/Skytale.png)
 
