@@ -1,4 +1,4 @@
-# History of Crypthography & Encryption Nowadays
+# History of Cryptography & Encryption Nowadays
 
 ## 1. Zkb? (Why?)
 
@@ -6,7 +6,7 @@
 - to keep the secret for long enough
 - war
 
-## 2. Brief History of Crypthography
+## 2. Brief History of Cryptography
 
 ### 2.1. Ancient Era
 - 600 BC - Scytale: proper size rod + leather strip
@@ -25,7 +25,7 @@
 ### 2.4. World War II
 - 1932 - Marian Rejewski: discovers how Enigma works.
 - It's shared with French and British intelligence services
-- Allowing crypthographers like Alan Turing to figure out how to crack and create Bombe Machine
+- Allowing cryptographers like Alan Turing to figure out how to crack and create Bombe Machine
 
 ![Bombe Machine](https://upload.wikimedia.org/wikipedia/commons/7/7a/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)
 
