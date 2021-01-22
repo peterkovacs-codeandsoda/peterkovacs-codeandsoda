@@ -1,4 +1,4 @@
-# History of Crypthography & Encryption nowadays
+# History of Crypthography & Encryption Nowadays
 
 ## 1. Zkb? (Why?)
 
@@ -10,22 +10,23 @@
 
 ### 2.1. Ancient Era
 - 600 BC - Scytale: proper size rod + leather strip
-- 60 BC - Caesar Substitution Cypher: shift characters by 3 places
+- 60 BC - Caesar substitution cypher: shift characters by 3 places
 
 ![Scytale](https://upload.wikimedia.org/wikipedia/commons/5/51/Skytale.png)
 
 ### 2.2. Medieval Era
 - 1553 - Giovan Battista Bellaso: first cipher to use a proper encryption key
-- 1854 - Playfair Cipher: encrypts pairs of letters instead of single ones
+- 1854 - Playfair cipher: encrypts pairs of letters instead of single ones
 
 ### 2.3. World War I
-- 1917 - Hebern Rotor Machine: electro-mechanical machine using key on a rotating disc
+- 1917 - Hebern rotor machine: electro-mechanical machine using key on a rotating disc
 - 1918 - Arthur Scherbius - Enigma: Rather than the one rotor, it uses several.
 
 ### 2.4. World War II
 - 1932 - Marian Rejewski: discovers how Enigma works.
--- It's shared with French and British intelligence services
--- Allowing crypthographers like Alan Turing to figure out how to crack  and create Bombe Machine
+- It's shared with French and British intelligence services
+- Allowing crypthographers like Alan Turing to figure out how to crack and create Bombe Machine
+
 ![Bombe Machine](https://upload.wikimedia.org/wikipedia/commons/7/7a/Wartime_picture_of_a_Bletchley_Park_Bombe.jpg)
 
 ### 2.5. Modern Crypthography
@@ -51,14 +52,20 @@
 ### 3.2. Usage
 
 #### 3.2.1. SSH/SFTP/SCP
--- asymmetric encryption is used to authenticate and share each public keys
--- server and client use their own private key, public key and the shared public key to generate symmetric key
--- symmetric encryption is used to communicate with the newly generated symmetric key
--- hashing is used to provide data integrity
+- asymmetric encryption is used to authenticate and share each public keys
+- server and client use their own private key, public key and the shared public key to generate symmetric key
+- symmetric encryption is used to communicate with the newly generated symmetric key
+- hashing is used to provide data integrity
 
 #### 3.2.2. SSL/TLS
--- asymmetric encryption is used to establish secure connection
--- symmetric encryption is used to exchange data
+- asymmetric encryption is used to establish secure connection
+- symmetric encryption is used to exchange data
+
+### 3.3. Attacks
+- hardware, software & human capabilities
+- success in time (Enigma 1 day rotation)
+- cryptanalysis
+- brute-force & dictionary attack
 
 ## 4. Resources
 - [Online crypting tool](https://cryptii.com/)
