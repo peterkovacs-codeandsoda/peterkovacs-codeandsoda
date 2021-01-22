@@ -37,7 +37,7 @@
 - 1990s - DSA (Digital Signature Algorithm): RSA alternative
 - 1991 - PGP (Pretty Good Privacy): hashing, data-compression, symmetric cipher, public key cryptography
 - 1997 - DES is cracked
-- 2000 - AES (Advanced Encryption Standard) replaces DES. It was the winner of a public cipher competition.
+- 2000 - AES (Advanced Encryption Standard) replaces DES. It was the winner of a public cipher competition
 
 ## 3. Encryption
 
@@ -68,4 +68,4 @@
 - brute-force & dictionary attack
 
 ## 4. Resources
-- [Online crypting tool](https://cryptii.com/)
+- [Online crypting tool](https://cryptii.com/){:target="_blank"}
