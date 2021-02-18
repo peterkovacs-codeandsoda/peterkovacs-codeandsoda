@@ -1,8 +1,5 @@
-<style>
-.page-header {
-  background-image: none;
-}
-</style>
+<link rel="stylesheet" href="/assets/css/main.scss" />
+
 # REST & HATEOAS
 
 ## 1. The RESTful style
