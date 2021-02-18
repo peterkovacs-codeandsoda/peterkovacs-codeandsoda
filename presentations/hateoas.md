@@ -1,4 +1,6 @@
-<link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+<head>
+  <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
+</head>
 
 # REST & HATEOAS
 
