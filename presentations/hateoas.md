@@ -1,6 +1,4 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="assets/css/main.css" />
-</head>
+@import "assets/css/main.css";
 
 # REST & HATEOAS
 
