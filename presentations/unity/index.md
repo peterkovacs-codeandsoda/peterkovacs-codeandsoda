@@ -15,3 +15,6 @@ Create and improve a project, covering tools, assets and services.
 - Delegates - Useful Patterns
 - HowTo Mobile
 - Monetization & User Acquisition
+
+## 3. More Content
+Soon...
