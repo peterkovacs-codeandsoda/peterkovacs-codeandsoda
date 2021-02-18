@@ -1,3 +1,9 @@
+<style>
+  .page-header {
+    background-image: none;
+  }
+</style>
+
 # History of Cryptography & Encryption Nowadays
 
 ## 1. Zkb? (Why?)

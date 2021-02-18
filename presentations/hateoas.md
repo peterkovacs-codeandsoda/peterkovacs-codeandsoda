@@ -1,4 +1,8 @@
-@import "assets/css/main.css";
+<style>
+  .page-header {
+    background-image: none;
+  }
+</style>
 
 # REST & HATEOAS
 

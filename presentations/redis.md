@@ -1,3 +1,9 @@
+<style>
+  .page-header {
+    background-image: none;
+  }
+</style>
+
 # Redis, Lettuce & Spring Data Redis Integration
 
 ## 1. NoSQL
