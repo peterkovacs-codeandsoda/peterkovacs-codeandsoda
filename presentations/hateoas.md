@@ -1,3 +1,8 @@
+<style>
+.page-header {
+  background-image: none;
+}
+</style>
 # REST & HATEOAS
 
 ## 1. The RESTful style
