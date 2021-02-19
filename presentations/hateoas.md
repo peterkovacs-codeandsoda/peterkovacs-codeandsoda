@@ -57,3 +57,6 @@
 - missing REST crawlers
 - no clients created to consume this type of API
 - less practical than theoretical
+
+## 5. Example
+- [PayPal developer API](https://developer.paypal.com/docs/api/reference/api-responses/?mark=hate#hateoas-links)
