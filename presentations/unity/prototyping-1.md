@@ -61,8 +61,3 @@ Provide an initial solution to achieve a specific goal.
 - MVP
   - just enough features to satisfy early customers
   - [Lean Startup Methodology](http://theleanstartup.com/principles)
-
-## 3. How to Achieve a Prototype?
-- KISS
-- Focus only on the selected feature/goal and nothing else
-- Break down big/complex features into small chunks
