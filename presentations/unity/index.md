@@ -11,7 +11,7 @@ Create and improve a project, covering tools, assets and services.
 
 ## 2. Topics
 - [Project Intro](intro.md)
-- Prototyping [Part 1](prototyping-1.md)|[Part 2](prototyping-2.md)
+- Prototyping [Part 1](prototyping-1.md)/[Part 2](prototyping-2.md)
 - Bolt - Visual Scripting
 - Delegates - Useful Patterns
 - HowTo Mobile
