@@ -47,6 +47,7 @@ Provide an initial solution to achieve a specific goal.
   - Iterative
   - XP (Extreme Programming)
   - Spiral
+
 ![Rapid Prototyping](https://towcenter.gitbooks.io/guide-to-journalism-and-design/content/graphics/RapidPrototyping.png)
 
 ## 2. Vision
