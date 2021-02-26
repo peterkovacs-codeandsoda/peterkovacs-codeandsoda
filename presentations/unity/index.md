@@ -10,8 +10,8 @@
 Create and improve a project, covering tools, assets and services.
 
 ## 2. Topics
-- [Project Intro/Kickoff](presentations/unity/intro.md)
-- [Prototyping](presentations/unity/prototyping.md)
+- [Project Intro/Kickoff](intro.md)
+- [Prototyping](prototyping.md)
 - Bolt - Visual Scripting
 - Delegates - Useful Patterns
 - HowTo Mobile
