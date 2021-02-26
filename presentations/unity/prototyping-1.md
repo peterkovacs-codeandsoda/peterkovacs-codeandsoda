@@ -30,7 +30,7 @@ Provide an initial solution to achieve a specific goal.
 ---
 
 ### 1.7. Step 7 (Review)
-- Aquire internal revision
+- Acquire internal revision
 
 ---
 
