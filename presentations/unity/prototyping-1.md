@@ -5,7 +5,7 @@
 </style>
 
 # Unity - The Practical Way
-## 1. Prototyping | Part 1(Theory)
+## 1. Prototyping | Part 1 (Theory)
 Provide an initial solution to achieve a specific goal.
 
 ### 1.1. Step 1 (Prototype)
