@@ -9,19 +9,19 @@
 
 ### 1.1. How to Start the Project
 - Identify the time limit
-- Identify the resource
+- Identify the resources
 - Identify the goals
 - Identify the scope
 - Identify the technology stack
 
 ### 1.2. Project Design Document
 - Try to cover all identified items
-- [See](https://github.com/peterkovacs-codeandsoda/project-andromeda/blob/main/Assets/Documents/Project%20Andromeda%20-%20Project%20Design%20Document.pdf)
+- See [Project Andromeda - Project Design Document](https://github.com/peterkovacs-codeandsoda/project-andromeda/blob/main/Assets/Documents/Project%20Andromeda%20-%20Project%20Design%20Document.pdf)
 
 ## 2. Technical Perspective
 
 ### 2.1. Project First Steps
-- Create project - *Project Andromeda*
+- Create project - **Project Andromeda**
 - [Add version control](https://github.com/peterkovacs-codeandsoda/project-andromeda)
 - Setup local
   - Select framework (Unity 2020.2)
@@ -61,8 +61,13 @@
 - Pick the next feature and follow [Section 2.2](#22-introduce-primitives)
 
 ### 2.6. Feature Complete?
-- In the meantime compare the current functionality with the Design Document, and create the "Features" Document
-- Review it frequently and check if the initial goals
-  - Achieved
-  - Can be achieved
-  - Need to change
+- In the meantime compare the current functionality with the Design Document, and create the *"Features"* Document
+- Check frequently
+  - initial goals
+  - initial scope
+  - initial technology stack
+  - initial resources
+  - initial time limit
+
+### 3. What's next?
+- Introduce some basic features with [Visual Scripting](visual-scripting.md)
