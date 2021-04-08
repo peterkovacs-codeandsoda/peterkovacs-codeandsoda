@@ -36,8 +36,8 @@ How to do the "no code" way
   - DSPGraph
   - Unity Animation
 
-### 1.3. [Bolt](https://docs.unity3d.com/Packages/com.unity.visualscripting@1.6/manual/index.html)
-- Pick everyhing (still code)
+### 1.3. [Bolt - Visual Scripting](https://docs.unity3d.com/Packages/com.unity.visualscripting@1.6/manual/index.html)
+- Pick everything (still code)
 - Generate bubbles for all the classes
 - Connect visual scripts with UEM
 - Sequential flow control
