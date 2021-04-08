@@ -22,7 +22,7 @@ How to do the "no code" way
 - Everything is code
 
 ### 1.2.9999. [DOTS - Data Oriented Technology Stack](https://unity.com/dots)
-- Core:
+- Core - ECS:
   - [Burst Compiler](https://docs.unity3d.com/2021.1/Documentation/Manual/com.unity.burst.html)
   - [Entities](https://docs.unity3d.com/Packages/com.unity.entities@0.17/manual/index.html)
   - [C# Job System](https://docs.unity3d.com/2021.1/Documentation/Manual/JobSystem.html?_ga=2.86431960.1990378347.1617922025-1026899014.1599206430)
