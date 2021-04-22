@@ -36,7 +36,7 @@ public class MyObject {
 }
 ```
 
-- Javascript: no explicit delegate, but Function.bind
+- Javascript: no explicit delegate, but [Function.bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)
 
 ```javascript
 function createDelegate(func, target) {
@@ -63,6 +63,11 @@ function myMethod() {
 var delegate = myMethod.bind(myObject);
 alert(delegate());
 ```
+
+- Usage:
+  - Define the context and the function pointer
+  - Bind one (singe-cast - Javascript) or more (multicast - C#) functions to the function pointer
+  - Call the function pointer with the proper context
 
 ### 2. Milestone 3
 - Stage spawning mechanism
