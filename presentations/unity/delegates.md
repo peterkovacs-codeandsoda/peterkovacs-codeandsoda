@@ -68,6 +68,8 @@ alert(delegate());
   - Define the context and the function pointer
   - Bind one (singe-cast - Javascript) or more (multicast - C#) functions to the function pointer
   - Call the function pointer with the proper context
+  - A function pointer call is not equal with a function call, so be cautious when the context is changed or removed
+  - Delegates everywhere can make the code chaotic in no time. Define strict rules: how to use them properly, who is the caller and who is the called
 
 ### 2. Milestone 3
 - Stage spawning mechanism
