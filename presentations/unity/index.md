@@ -13,7 +13,7 @@ Create and improve a project, covering tools, assets and services.
 - [Project Intro](intro.md)
 - Prototyping [Part 1](prototyping-1.md)/[Part 2](prototyping-2.md)
 - [Bolt - Visual Scripting](visual-scripting.md)
-- Delegates - Useful Patterns
+- [Delegates - Useful Patterns](delegates.md)
 - HowTo Mobile
 - Monetization & User Acquisition
 
