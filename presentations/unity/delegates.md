@@ -21,7 +21,8 @@
 ### 1.2. Delegates
 - C#: type safe function pointer (coupled with context/object)
 
-```public delegate MyDelegateType MyMethod();
+```csharp
+public delegate MyDelegateType MyMethod();
 
 public class MyObject {  
 
@@ -36,7 +37,9 @@ public class MyObject {
 ```
 
 - Javascript: no explicit delegate, but Function.bind
-```function createDelegate(func, target) {
+
+```javascript
+function createDelegate(func, target) {
     return function() {
         return func.apply(target, arguments);
     };
@@ -51,7 +54,8 @@ var delegate = createDelegate(myMethod, myObject);
 alert(delegate());
 ```
 
-```var myObject = { name: "Target!"};
+```javascript
+var myObject = { name: "Target!"};
 function myMethod() {
     return this.name;
 }
