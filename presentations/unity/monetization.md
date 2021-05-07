@@ -24,7 +24,7 @@
 - Premium/P2P ~ [Stardew Valley](https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=en&gl=US)
 - F2P ~ [Fortnite](https://www.epicgames.com/fortnite/en-US/home), [Fortnite banned from App and Play stores](https://www.nytimes.com/2020/08/13/technology/apple-fortnite-ban.html), [Apple vs Epic lawsuit](https://www.wired.com/story/epic-apple-lawsuit-one-legal-question/)
 - P2W ~ [Top Grossing Games](https://play.google.com/store/apps/collection/cluster?clp=0g4YChYKEHRvcGdyb3NzaW5nX0dBTUUQBxgD:S:ANO1ljLhYwQ&gsr=ChvSDhgKFgoQdG9wZ3Jvc3NpbmdfR0FNRRAHGAM%3D:S:ANO1ljIKta8)
-- Subscription ~ Recurring fee for a bunch of premium games (Store level)
+- Subscription ~ Recurring fee for a bunch of premium games (Google Play Pass, Apple Arcade)
 
 ### 1.5. How much?
 - Top Paid game in Play store: [Minecraft](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe)
