@@ -15,7 +15,7 @@ Create and improve a project, covering tools, assets and services.
 - [Bolt - Visual Scripting](visual-scripting.md)
 - [Delegates - Useful Patterns](delegates.md)
 - HowTo Mobile
-- [Monetization](monetization.md) & User Acquisition
+- [Monetization](monetization.md) & [User Acquisition](user-acquisition.md)
 
 ## 3. More Content
 Soon...
