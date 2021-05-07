@@ -41,9 +41,9 @@
 ### 1.7. Ads
 - Rewarded video
 - Playable ads
-![CATS](https://connect-prd-cdn.unity.com/20200309/learn/images/9c612c72-954e-4601-9cae-a153f4d601ae_ezgif_3_ef7fc19d11e6.gif._gif_.mp4)
+<video src="https://connect-prd-cdn.unity.com/20200309/learn/images/9c612c72-954e-4601-9cae-a153f4d601ae_ezgif_3_ef7fc19d11e6.gif._gif_.mp4" controls preload></video>
 - (Responsive) AR Ads
-![MALLET](https://connect-prd-cdn.unity.com/20200311/learn/images/f00de041-208e-433e-a85c-d0e2be0a043c_Responsive_AR_User_Flow_Generic__1_.gif._gif_.mp4)
+<video scr="https://connect-prd-cdn.unity.com/20200311/learn/images/f00de041-208e-433e-a85c-d0e2be0a043c_Responsive_AR_User_Flow_Generic__1_.gif._gif_.mp4" controls preload></video>
 
 ### 1.8. IAP
 - Consumables (items)
