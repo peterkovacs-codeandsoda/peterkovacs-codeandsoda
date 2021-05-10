@@ -83,13 +83,76 @@
 - Kraken: all packs, lots of random packs to maximize everything, price range: $9.99-139.99
 
 ## 2. User Acquisition (on Mobile)
-### 2.1. IAP Again
-- Consumables = time saver
-- Non-consumables = feature unlock
-- Subscription = time saver & unique items
 
-### 2.2. IAP Items Application
-- regularity
-- budget / month
+### 2.1. Primary Types of User Acquisition
+- Organic
+  - App store optimization
+    - The name of your app - use [keyword tools](https://keywordtool.io/)
+    - The image in the description
+    - The number of ratings
+  - Store featuring
+  - Reviews
+  - Content marketing
+    - blog posts, videos, tutorials
+    - best to increase audience
+    - easiest to produce
+  - Guerilla marketing
+    - partnering with game sites - [IGN](https://www.ign.com/), [GameSpot](https://www.gamespot.com/)
+    - Facebook, Twitter, Reddit, Discord, Steam Community
+  - PR & Media
+  - Word of mouth
+  - In app growth
+    - referral growth strategy
+    - cross promotion
+- Paid
+  - Performance
+  - Awareness
 
-...
+### 2.2. Performance Campaign Pricing Models
+- CPC - Cost Per Click = Click on an ad
+- CPI - Cost Per Install = Install
+- CPA/E - Cost Per Action/Engagement = Take a specific action within game
+
+### 2.3. Awareness Campaing Pricing Model
+- CPM - Cost Per Mille = cost per 1000 impressions
+
+### 2.4. KPIs - Key Performance Indicators
+- Payback window (3 days)
+- ROAS - Return On Advertisement Spending (5:1)
+- Retention - D1, D3, D7 (100000, 53000, 4600)
+- LTV - Lifetime Value ($1124)
+
+### 2.5. Campaign Health Metrics
+- Pricing
+  - CPI
+  - CPC
+  - CPA/E
+  - CPM
+- IPM - Install Per Mille
+- CTR - Click Through Rate = CPC / total impressions
+- CVR - Conversion Rate = impression to install
+- eCPM - Effective Cost Per Mille ~ eCPM = (CPI * CVR) * 1000
+
+### 2.6. User and Revenue Metrics
+- ARPDAU - Average Revenue Per Daily Active User
+- ARPU - Average Revenue Per User = lifetime revenue / lifetime user
+- ARPPU - Average Revenue Per Paying User
+
+### 2.7. Balancing Marketing with Gameplay
+- Acquiring the users is just the first step
+- The game should provide the proper engagement and game loop => retention => revenue
+
+### 2.8. Paid Marketing Channels
+- Social Media best for early stage ~ [Facebook's lowest cost bid strategy](https://www.facebook.com/business/help/721453268045071?id=2196356200683573)
+  - Select look-a-like audience
+  - Setup budget
+- Influencer partnership
+- In-App Ads
+- Ad Network
+  - Reach
+  - Gaming vs non-gaming
+  - Targeting, Campaign Management, Ad Formats, Reporting
+- Mobile Attribution
+  - [Adjust](https://www.adjust.com/)
+  - [Appsflyer](https://www.appsflyer.com/product/mobile-attribution/)
+  - [Singular](https://www.singular.net/)
