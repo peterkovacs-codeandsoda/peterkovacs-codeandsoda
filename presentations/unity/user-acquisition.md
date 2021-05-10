@@ -82,6 +82,7 @@
 - Whale: all Marquee event/time limited packs, maximizers, boosters, price range: $10-39.99
 - Kraken: all packs, lots of random packs to maximize everything, price range: $9.99-139.99
 
+
 ## 2. User Acquisition (on Mobile)
 
 ### 2.1. Primary Types of User Acquisition
