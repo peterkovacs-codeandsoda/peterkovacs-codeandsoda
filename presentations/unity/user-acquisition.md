@@ -17,10 +17,10 @@
 - Survival, existence, evolution needs
 
 ### 1.2.1. Maslow's Five Step Hierarchy of needs
-![Maslow's Five Step Hierarchy of needs](https://www.simplypsychology.org/maslow-needs2.webp)
+![Maslow's Five Stage Hierarchy of needs](https://www.simplypsychology.org/maslow-needs2.webp)
 
 ### 1.2.2. Maslow's Eight Step Hierarchy of needs
-![Maslow's Eight Step Hierarchy of needs](https://www.simplypsychology.org/maslow-needs5.webp)
+![Maslow's Eight Stage Hierarchy of needs](https://www.simplypsychology.org/maslow-needs5.webp)
 
 ### 1.3. Player Happiness
 - Trigger one or more Happy Chemical = [EZ](https://www.amazon.com/gp/product/B0178M3LNA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0178M3LNA&linkCode=as2&tag=sachinrekhi-20&linkId=084b123e8963e2982e48009b5a35e316)
