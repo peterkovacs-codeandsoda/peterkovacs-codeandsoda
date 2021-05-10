@@ -5,13 +5,13 @@
 </style>
 
 # Unity - The Practical Way
-## 1. Users
+## 1. Players (Game App Users)
 
 ### 1.1. User Physiology - a.k.a. Happy Chemicals
-- dopamine: achieve a goal, expect a reward
-- serotonin: social recognition, mood boost
-- oxytocin: love, social bonding
-- endorphins: stress/pain relieve
+- Dopamine: achieve a goal, expect a reward
+- Serotonin: social recognition, mood boost
+- Oxytocin: love, social bonding
+- Endorphin: stress/pain relieve
 
 ### 1.2. User Psychology
 - Survival, existence, evolution needs
@@ -32,7 +32,7 @@
 - Dopamine: quests, achievements, challenges, buy & get something
 - Serotonin: K/D, MVP, team kill, endorsment system, ranking
 - Oxytocin: story, immersive gameplay
-- Endorphins: story, humorous and very sad plotline
+- Endorphin: story, humorous and very sad plotline
 
 ### 1.5. [Cognitive Flow](https://www.gamasutra.com/view/feature/166972/cognitive_flow_the_psychology_of_.php?print=1)
 - Concrete goals with manageable rules
