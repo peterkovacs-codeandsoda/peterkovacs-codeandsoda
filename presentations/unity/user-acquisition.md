@@ -15,8 +15,10 @@
 
 ### 1.2. User Psychology
 - Survival, existence, evolution needs
+
 ### 1.2.1. Maslow's Five Step Hierarchy of needs
 ![Maslow's Five Step Hierarchy of needs](https://www.simplypsychology.org/maslow-needs2.webp)
+
 ### 1.2.2. Maslow's Eight Step Hierarchy of needs
 ![Maslow's Eight Step Hierarchy of needs](https://www.simplypsychology.org/maslow-needs5.webp)
 
