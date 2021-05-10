@@ -16,10 +16,10 @@
 ### 1.2. User Psychology
 - Survival, existence, evolution needs
 
-### 1.2.1. Maslow's Five Stage Hierarchy of needs
+### 1.2.1. Maslow's Five Stage Hierarchy of Needs
 ![Maslow's Five Stage Hierarchy of needs](https://www.simplypsychology.org/maslow-needs2.webp)
 
-### 1.2.2. Maslow's Eight Stage Hierarchy of needs
+### 1.2.2. Maslow's Eight Stage Hierarchy of Needs
 ![Maslow's Eight Stage Hierarchy of needs](https://www.simplypsychology.org/maslow-needs5.webp)
 
 ### 1.3. Player Happiness
@@ -54,13 +54,29 @@
 - Socializers
 - Killers
 
-### 1.7. User Monetization Archetypes
+### 1.7. Motivation
+- intrinsic
+- extrinsic
+
+### 1.8. Common Game Mechanics
+- Achievement
+- Envy
+- Ownership
+- Progression
+- Status
+- Collection
+- Blissful productivity
+- Appointment
+- Cascading information
+- Epic meaning
+
+### 1.9. User Monetization Archetypes
 - no ad, no money
 - ad only
 - money only
 - ad and money
 
-### 1.8. F2P Player IAP Archetypes
+### 1.10. F2P Player IAP Archetypes
 - Minnow: starter packs, price range: $0-9.99 packs
 - Dolphin: some of Marquee event/time limited packs, price range: $10-19.99
 - Whale: all Marquee event/time limited packs, maximizers, boosters, price range: $10-39.99
