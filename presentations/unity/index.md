@@ -14,7 +14,7 @@ Create and improve a project, covering tools, assets and services.
 - Prototyping [Part 1](prototyping-1.md)/[Part 2](prototyping-2.md)
 - [Bolt - Visual Scripting](visual-scripting.md)
 - [Delegates - Useful Patterns](delegates.md)
-- HowTo Mobile
+- [HowTo Mobile](howto-mobile.md)
 - [Monetization](monetization.md) & [User Acquisition](user-acquisition.md)
 
 ## 3. More Content
