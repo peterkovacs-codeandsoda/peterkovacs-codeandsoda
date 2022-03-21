@@ -6,7 +6,7 @@
 
 # Black Holes
 
-## 1. Relativities - Cold Start
+## 1. Relativities
 
 - Special Relativity (1905)
 - General Relativity (1915)
@@ -58,5 +58,17 @@
 ## 3. Solution of the General Relativity (1916)
 
 - Schwarzschild found his radius
-![Schwarzschild radius](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Black_hole_details.svg/220px-Black_hole_details.svg.png)
 - BLACK HOLES (FINALLY AGAIN...)
+
+![Schwarzschild radius](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Black_hole_details.svg/220px-Black_hole_details.svg.png)
+
+## 4. Bald Black Holes
+
+- No-hair Theorem
+- Three properties:
+  - mass
+  - electric charge
+  - angular momentum
+- Physics meme exists
+
+![No-hair black hole](https://www.hollywoodreporter.com/wp-content/uploads/2011/10/doh_a.jpg?w=681&h=383&crop=1)
