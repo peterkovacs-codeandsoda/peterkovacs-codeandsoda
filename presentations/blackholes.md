@@ -47,9 +47,16 @@
   - No Force (but I accelerate)
 - Solution: warped spacetime (3D)
 - Explain:
-  - turn off gravity: floating a straight line
+  - turn off gravity:
+    - floating a straight line
   ![gravity-off](images/bh-1.png)
   - turn on gravity: gravity wraps spacetime
     - fall to the ground (as expected)
     - time ticks slower on the ground than on the roof
   ![gravity-on](images/bh-2.png)
+
+## 3. Solution of the General Relativity (1916)
+
+- Schwarzschild found his radius
+![Schwarzschild radius](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Black_hole_details.svg/220px-Black_hole_details.svg.png)
+- BLACK HOLES (FINALLY AGAIN...)
