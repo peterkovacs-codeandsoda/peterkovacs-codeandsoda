@@ -11,7 +11,7 @@
 - Build Target (Android, iOs)
 - Texture Compression -> ASTC; See: [Supported texture compression formats, by platform](https://docs.unity3d.com/Manual/class-TextureImporterOverride.html#supported-formats)
 - ETC2 fallback
-- Export project -> import into Visual Studio as Gradle project
+- Export project -> import into Android Studio as Gradle project
 - Build App Bundle -> [aab](https://developer.android.com/platform/technology/app-bundle/) instead of apk
 - Run Device -> connected device for testing purposes
 - Development Build -> debug symbols + enabled Profiler
