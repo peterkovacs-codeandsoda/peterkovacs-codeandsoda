@@ -19,9 +19,11 @@
 ### 1.2. Special Relativity Consequences
 
 - E=mc2
-- Time dilatation
+- Time dilation
 - 2D quantified spacetime (double light cone)
 - (it doesn't care about gravity)
+
+![Light cone](https://upload.wikimedia.org/wikipedia/commons/1/16/World_line.svg)
 
 ### 1.3. General Relativity Foundations
 
@@ -72,3 +74,24 @@
 - Physics meme exists
 
 ![No-hair black hole](https://www.hollywoodreporter.com/wp-content/uploads/2011/10/doh_a.jpg?w=681&h=383&crop=1)
+
+## 5. Observe Indirectly
+
+- intense light coming from accretion disk
+  - ISCO (Innermost Stable Circular Orbit)
+    - ISCO > R: accretion disk spin the same direction as the black hole
+    - ISCO = 3R: the black hole is not rotating
+    - ISCO < 9R: accretion disk spin the inverse direction as the black hole
+- SMBH affecting near stars
+- Gravitational Lensing
+- Gravitational Waves
+  - LIGO
+  - VIRGO
+- Take a photo
+
+## 6. Nobel Prize
+- Penrose 1978?
+- 2017 LIGO
+- 2020
+
+## 9999. References
