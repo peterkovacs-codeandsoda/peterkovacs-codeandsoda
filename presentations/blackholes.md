@@ -3,6 +3,16 @@
     background:#000 url(images/stars.png) repeat top center;
     z-index:0;
   }
+  .project-tagline {
+    background:transparent url(images/twinkling.png) repeat top center;
+    z-index:1;
+
+    -moz-animation:move-twink-back 200s linear infinite;
+    -ms-animation:move-twink-back 200s linear infinite;
+    -o-animation:move-twink-back 200s linear infinite;
+    -webkit-animation:move-twink-back 200s linear infinite;
+    animation:move-twink-back 200s linear infinite;
+  }
 </style>
 
 # Black Holes
