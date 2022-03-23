@@ -3,7 +3,7 @@
     background:#000 url(images/stars.png) repeat top center;
     z-index:0;
   }
-  .project-tagline {
+  .project-name {
     background:transparent url(images/twinkling.png) repeat top center;
     z-index:1;
 
