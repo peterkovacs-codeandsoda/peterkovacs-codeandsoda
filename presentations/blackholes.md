@@ -1,4 +1,7 @@
 <style>
+.page-header {
+  display: none;
+}
 /* ==============================================================================================
 This copyright notice must be kept untouched in the stylesheet at all times.
 The original version of this stylesheet and the associated (x)html
@@ -9,6 +12,8 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 * {
     margin: 0;
     padding: 0;
+    z-index: 2;
+    font-color: #fff;
 }
 header {
     background-color:rgba(33, 33, 33, 0.9);
@@ -76,7 +81,7 @@ header a, a:visited {
   right:0;
   bottom:0;
   width:100%;
-  height:300px;
+  height:100%;
   display:block;
   padding-bottom:300px;
 }
