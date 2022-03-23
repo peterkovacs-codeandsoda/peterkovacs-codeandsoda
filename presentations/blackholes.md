@@ -12,8 +12,6 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 * {
     margin: 0;
     padding: 0;
-    z-index: 2;
-    font-color: #fff;
 }
 header {
     background-color:rgba(33, 33, 33, 0.9);
@@ -88,11 +86,13 @@ header a, a:visited {
 
 .stars {
   background:#000 url(images/stars.png) repeat top center;
+  background-attachment: fixed;
   z-index:0;
 }
 
 .twinkling{
   background:transparent url(images/twinkling.png) repeat top center;
+  background-attachment: fixed;
   z-index:1;
 
   -moz-animation:move-twink-back 200s linear infinite;
@@ -102,19 +102,14 @@ header a, a:visited {
   animation:move-twink-back 200s linear infinite;
 }
 
-.clouds{
-    background:transparent url(images/clouds.png) repeat top center;
-    z-index:3;
-
-  -moz-animation:move-clouds-back 200s linear infinite;
-  -ms-animation:move-clouds-back 200s linear infinite;
-  -o-animation:move-clouds-back 200s linear infinite;
-  -webkit-animation:move-clouds-back 200s linear infinite;
-  animation:move-clouds-back 200s linear infinite;
+.blackholes {
+  z-index: 10;
+  font-color: #fff;
 }
 </style>
 <div class="stars"></div>
 <div class="twinkling"></div>
+<div class="blackholes">
 
 # Black Holes
 
@@ -217,3 +212,4 @@ header a, a:visited {
 - 2020
 
 ## 9999. References
+</div>
