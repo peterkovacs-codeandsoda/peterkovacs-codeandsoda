@@ -1,6 +1,7 @@
 <style>
   .page-header {
-    background-image: none;
+    background:#000 url(images/stars.png) repeat top center;
+    z-index:0;
   }
 </style>
 
