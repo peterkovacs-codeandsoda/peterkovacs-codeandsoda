@@ -6,7 +6,17 @@
 
 # Black Holes
 
-## 1. Relativities
+![Milky Way Panorama](https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg)
+
+## 0. Prepare for the big moment
+
+![Crab Nebula](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/375px-Crab_Nebula.jpg)
+
+- 1054: SN 1054 - Crab Nebula
+- 1676: First measure the speed of light
+- 1783: definition of dark star - escape velocity > speed of light
+
+## 1. Relativity
 
 - Special Relativity (1905)
 - General Relativity (1915)
