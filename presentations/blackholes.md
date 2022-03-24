@@ -194,7 +194,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 ![](https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_mwayjet_diagram.jpg)
 - SMBH affecting near stars
 
-![Stars orbiting around supermassive black hole at the center of the Milky Way](https://upload.wikimedia.org/wikipedia/commons/7/71/Simulation_of_the_orbits_of_stars_around_the_black_hole_at_the_centre_of_the_Milky_Way.webm)
+[Stars orbiting around supermassive black hole at the center of the Milky Way](https://upload.wikimedia.org/wikipedia/commons/7/71/Simulation_of_the_orbits_of_stars_around_the_black_hole_at_the_centre_of_the_Milky_Way.webm)
 - Gravitational Lensing
 
 ![Gravitational Lensing](https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif)
