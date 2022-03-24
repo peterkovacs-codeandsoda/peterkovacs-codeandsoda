@@ -206,10 +206,10 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 - Gravitational Waves
   - LIGO
 
-  ![LIGO](https://www.ligo.caltech.edu/system/media_files/binaries/271/original/Dual_detectors_with_arrow_and_stns_labeled.jpg?1453424757)
+![LIGO](https://www.ligo.caltech.edu/system/media_files/binaries/271/original/Dual_detectors_with_arrow_and_stns_labeled.jpg?1453424757)
   - VIRGO
 
-  ![VIRGO](https://upload.wikimedia.org/wikipedia/commons/5/55/Virgo_aerial_view_01.jpg)
+![VIRGO](https://upload.wikimedia.org/wikipedia/commons/5/55/Virgo_aerial_view_01.jpg)
 - Take a photo
 
 ![First black hole photo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/360px-Black_hole_-_Messier_87_crop_max_res.jpg)
