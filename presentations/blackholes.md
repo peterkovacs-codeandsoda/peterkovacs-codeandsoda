@@ -10,32 +10,9 @@ Copyright (c) Script Tutorials. All rights reserved.
 This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
 ================================================================================================= */
 * {
+  position: relative;
     margin: 0;
     padding: 0;
-}
-header {
-    background-color:rgba(33, 33, 33, 0.9);
-    color:#ffffff;
-    display:block;
-    font: 14px/1.3 Arial,sans-serif;
-    height:50px;
-    position:relative;
-    z-index:5;
-}
-h2{
-    margin-top: 30px;
-    text-align: center;
-}
-header h2{
-    font-size: 22px;
-    margin: 0 auto;
-    padding: 10px 0;
-    width: 80%;
-    text-align: center;
-}
-header a, a:visited {
-    text-decoration:none;
-    color:#fcfcfc;
 }
 
 @keyframes move-twink-back {
@@ -103,13 +80,13 @@ header a, a:visited {
 }
 
 .blackholes {
+  position: relative;
   z-index: 10;
   font-color: #fff;
 }
 </style>
 <div class="stars"></div>
 <div class="twinkling"></div>
-<div class="blackholes">
 
 # Black Holes
 
@@ -212,4 +189,3 @@ header a, a:visited {
 - 2020
 
 ## 9999. References
-</div>
