@@ -162,23 +162,45 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 
 ![No-hair black hole](https://www.hollywoodreporter.com/wp-content/uploads/2011/10/doh_a.jpg?w=681&h=383&crop=1)
 
-## 5. Observe Indirectly
+## 5. Black Hole Behaviour
+
+## 6. Observe Indirectly
 
 - intense light coming from accretion disk
   - ISCO (Innermost Stable Circular Orbit)
     - ISCO > R: accretion disk spin the same direction as the black hole
     - ISCO = 3R: the black hole is not rotating
     - ISCO < 9R: accretion disk spin the inverse direction as the black hole
+
+![Intense accretion disk](https://www.nasa.gov/sites/default/files/cygx1_ill.jpg)
 - SMBH affecting near stars
+![Stars orbiting around supermassive black hole at the center of the Milky Way](https://upload.wikimedia.org/wikipedia/commons/7/71/Simulation_of_the_orbits_of_stars_around_the_black_hole_at_the_centre_of_the_Milky_Way.webm)
 - Gravitational Lensing
+![Gravitational Lensing](https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif)
+![Artistic Gravitational Lensing](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/20190410l.tif/lossy-page1-1200px-20190410l.tif.jpg)
 - Gravitational Waves
   - LIGO
+  ![LIGO](https://www.ligo.caltech.edu/system/media_files/binaries/271/original/Dual_detectors_with_arrow_and_stns_labeled.jpg?1453424757)
   - VIRGO
+  ![VIRGO](https://upload.wikimedia.org/wikipedia/commons/5/55/Virgo_aerial_view_01.jpg)
 - Take a photo
+![First black hole photo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/360px-Black_hole_-_Messier_87_crop_max_res.jpg)
+- Hawking radiation
 
-## 6. Nobel Prize
-- Penrose 1978?
-- 2017 LIGO
-- 2020
+## 7. Nobel Prize
+- 2017: LIGO
+- 2020: Penrose, Ghez, Genzel
 
-## 9999. References
+## 8. Paradox Again
+- general relativity and quantum mechanics fight against each other
+- quantum mechanics doesn't allow information loss in the system, so what happens in the black hole?
+
+## 9. References
+- [Simple example about the general relativity](https://vis.sciencemag.org/generalrelativity/)
+- [AtomCsill presentation about the black holes](https://youtu.be/rToQgaiMy4M)
+- [Nobel Prize 2017](https://www.nobelprize.org/prizes/physics/2017/summary/)
+- [Nobel Prize 2020](https://www.nobelprize.org/prizes/physics/2020/summary/)
+- [LIGO](https://www.ligo.caltech.edu/)
+- [VIRGO](https://www.virgo-gw.eu/)
+- [Cygnus X-1](https://en.wikipedia.org/wiki/Cygnus_X-1)
+- [03.2022. - Black Holes may have quantum hair?](https://www.livescience.com/black-hole-quantum-hair)
