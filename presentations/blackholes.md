@@ -56,9 +56,8 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
   right:0;
   bottom:0;
   width:100%;
-  height:100%;
+  height:300px;
   display:block;
-  padding-bottom:300px;
 }
 
 .stars {
@@ -79,11 +78,6 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
   animation:move-twink-back 200s linear infinite;
 }
 
-.blackholes {
-  position: relative;
-  z-index: 10;
-  font-color: #fff;
-}
 </style>
 <div class="stars"></div>
 <div class="twinkling"></div>
