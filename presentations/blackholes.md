@@ -164,6 +164,24 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 
 ## 5. Black Hole Behaviour
 
+![Black Hole](https://cdn.mos.cms.futurecdn.net/56HmHbttAgfKELwqmqLRLc-1024-80.jpg.webp)
+
+- Physical property
+  - Micro: mass of the Moon with ~0.1mm radius
+  - Stellar: 10 x mass of the Sun with 30km radius
+  - Intermediate-mass: 1000 x  mass of the Sun with 1000 km radius (Earth radius: 6378km)
+  - Supermassive: 100000 to 10 billion x  mass of the Sun with 0.001-400 AU (Astronomical unit: Sun Earth distance: 150 million km)
+- Singularity
+  - Spaghettification
+
+![Spaghettification](https://upload.wikimedia.org/wikipedia/commons/f/ff/Spaghettification_%28from_NASA%27s_Imagine_the_Universe%21%29.png)
+- ISCO
+- Photonsphere
+- Ergosphere
+- Event Horizon
+
+![Ergosphere](https://deepstash.com/_next/image?url=https%3A%2F%2Fd1dfxfqogsjixt.cloudfront.net%2F92268-1620913049.png&w=1920&q=75)
+
 ## 6. Observe Indirectly
 
 - intense light coming from accretion disk
@@ -173,6 +191,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
     - ISCO < 9R: accretion disk spin the inverse direction as the black hole
 
 ![Intense accretion disk](https://www.nasa.gov/sites/default/files/cygx1_ill.jpg)
+![](https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_mwayjet_diagram.jpg)
 - SMBH affecting near stars
 
 ![Stars orbiting around supermassive black hole at the center of the Milky Way](https://upload.wikimedia.org/wikipedia/commons/7/71/Simulation_of_the_orbits_of_stars_around_the_black_hole_at_the_centre_of_the_Milky_Way.webm)
@@ -209,3 +228,5 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 - [VIRGO](https://www.virgo-gw.eu/)
 - [Cygnus X-1](https://en.wikipedia.org/wiki/Cygnus_X-1)
 - [03.2022. - Black Holes may have quantum hair?](https://www.livescience.com/black-hole-quantum-hair)
+- [Black Holes - Wikipedia](https://en.wikipedia.org/wiki/Black_hole)
+- [Spaghettification - Wikipedia](https://en.wikipedia.org/wiki/Spaghettification)
