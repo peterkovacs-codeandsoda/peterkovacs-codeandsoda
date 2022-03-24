@@ -9,10 +9,6 @@ is available at http://www.script-tutorials.com/night-sky-with-twinkling-stars/
 Copyright (c) Script Tutorials. All rights reserved.
 This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
 ================================================================================================= */
-* {
-    margin: 0;
-    padding: 0;
-}
 
 @keyframes move-twink-back {
     from {background-position:0 0;}
