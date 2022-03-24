@@ -68,7 +68,6 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 .twinkling{
   background:transparent url(images/twinkling.png) repeat top center;
   background-attachment: fixed;
-  padding-bottom:300px;
   z-index:1;
 
   -moz-animation:move-twink-back 200s linear infinite;
@@ -76,6 +75,10 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
   -o-animation:move-twink-back 200s linear infinite;
   -webkit-animation:move-twink-back 200s linear infinite;
   animation:move-twink-back 200s linear infinite;
+}
+
+.main-content {
+  margin-top: 300px;
 }
 
 </style>
