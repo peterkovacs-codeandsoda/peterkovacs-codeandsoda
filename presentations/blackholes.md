@@ -138,11 +138,14 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 - Explain:
   - turn off gravity:
     - floating a straight line
-  ![gravity-off](images/bh-1.png)
+
+![gravity-off](images/bh-1.png)
+
   - turn on gravity: gravity wraps spacetime
     - fall to the ground (as expected)
     - time ticks slower on the ground than on the roof
-  ![gravity-on](images/bh-2.png)
+
+![gravity-on](images/bh-2.png)
 
 ## 3. Solution of the General Relativity (1916)
 
@@ -175,6 +178,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
   - Spaghettification
 
 ![Spaghettification](https://upload.wikimedia.org/wikipedia/commons/f/ff/Spaghettification_%28from_NASA%27s_Imagine_the_Universe%21%29.png)
+
 - ISCO
 - Photonsphere
 - Ergosphere
@@ -191,7 +195,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
     - ISCO < 9R: accretion disk spin the inverse direction as the black hole
 
 ![Intense accretion disk](https://www.nasa.gov/sites/default/files/cygx1_ill.jpg)
-![](https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_mwayjet_diagram.jpg)
+![Milky way's SMBH jet](https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_mwayjet_diagram.jpg)
 - SMBH affecting near stars
 
 [Stars orbiting around supermassive black hole at the center of the Milky Way](https://upload.wikimedia.org/wikipedia/commons/7/71/Simulation_of_the_orbits_of_stars_around_the_black_hole_at_the_centre_of_the_Milky_Way.webm)
