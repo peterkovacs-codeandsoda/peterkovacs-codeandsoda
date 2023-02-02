@@ -135,6 +135,11 @@ Mi van a vízben?
 
 ![Dutch](https://external-preview.redd.it/9nnUrhv_DZc4xxTt8qw4Pbch4-vSMt8UptLhH-QVmXE.png?format=pjpg&auto=webp&s=7884cfb2710dbba05b4a450240609a0f0e4f0a1d)
 
+
+- bővebben az [akvárium stílusokról](https://aquascapinglove.com/learn-aquascaping/aquascaping-styles/)
+- és még [bővebben](https://www.2hraquarist.com/blogs/aquascaping-ideas)
+
+
 ## 16. IAPLC ("International Aquatic Plants Layout Contest")
 
 - [Some more pictures](https://www.aqualibs.com/news/iaplc-2022-world-ranking-announcement/)
