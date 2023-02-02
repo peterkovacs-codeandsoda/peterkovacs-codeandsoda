@@ -158,3 +158,18 @@ A világ legnagyobb Nature akváriuma(40m ~ 160.000L)
 - Hogyan készült a [Florestas Submersas](https://youtu.be/Kq5D8k4BVXs)
 
 - A tárlat [oldala](https://www.oceanario.pt/en/exhibitions/forests-underwater/)
+
+
+## 18. Random guy low-tech
+
+![Old 1 year progress](images/aquarium/LT-old_1_year_progress.jpg)
+![Feeding Frenzy](images/aquarium/LT-neocaridina_feeding_frenzy.jpg)
+![3rd progress](images/aquarium/LT-progress-3.jpg)
+![3rd progress zoomed](images/aquarium/LT-progress-zoomed-3.jpg)
+
+## 19. Another random guy high-tech
+
+![2nd new setup](images/aquarium/HT-new_setup-2.jpg)
+![2nd progress](images/aquarium/HT-progress-2.jpg)
+![3rd new setup](images/aquarium/HT-new_setup-3.jpg)
+![3rd progress](images/aquarium/HT-progress-3.jpg)
