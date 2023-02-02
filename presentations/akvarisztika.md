@@ -2,12 +2,6 @@
   .page-header {
     background-image: none;
   }
-  body {
-    background-image: url("images/ada-aq-1.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
 </style>
 
 # Akvarisztika
@@ -76,4 +70,4 @@ Mi van a vízben?
 - oxigén
 - protein
 
-## 11. 
+## 11.
