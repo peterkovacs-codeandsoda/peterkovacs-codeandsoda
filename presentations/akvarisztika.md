@@ -186,8 +186,8 @@ A világ legnagyobb Nature akváriuma (40m ~ 160.000L)
 
 ***
 
-![3rd new setup](images/aquarium/HT-new_setup_3.jpg)
+![2nd progress](images/aquarium/HT-progress-3.jpg)
 
 ***
 
-![3rd progress](images/aquarium/HT-progress-3.jpg)
+![3rd new setup](images/aquarium/HT-new_setup_3.jpg)
