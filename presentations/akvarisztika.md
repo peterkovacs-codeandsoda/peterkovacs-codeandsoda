@@ -153,5 +153,6 @@ A világ legnagyobb Nature akváriuma(40m ~ 160.000L)
 
 ***
 
-[Florestas Submersas](https://youtu.be/Kq5D8k4BVXs)
-Hogyan készült a Florestas Submersas.
+Hogyan készült a [Florestas Submersas](https://youtu.be/Kq5D8k4BVXs)
+
+A tárlat [oldala](https://www.oceanario.pt/en/exhibitions/forests-underwater/)
