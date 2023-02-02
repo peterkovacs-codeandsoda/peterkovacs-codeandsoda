@@ -57,7 +57,7 @@ Mi van a vízben?
 - lesz sok ammónia s ammónium a vízbe
 - imádják is azt, gyorsan kimúlnának tőle
 - de megmenti őket az a cuki két baci
-- kik gyorsan nitritté és nitrátottá varázsolják, jupi
+- kik gyorsan nitritté és nitráttá varázsolják, jupi
 
 [Bocs]
 
