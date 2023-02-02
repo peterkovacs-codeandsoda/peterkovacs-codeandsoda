@@ -13,25 +13,25 @@ Mi van a vízben?
 - víz
 - élőlények
 
-## 2. Milyen fajta akvárium fajták vannak?
+## 2. Milyen akvárium fajták vannak?
 
 - hideg vízi
 - meleg vízi
 
-## 3. Milyen fajta akvárium fajták vannak?
+## 3. Milyen akvárium fajták vannak?
 
 - hideg/meleg édesvízi
 - hideg/meleg tengeri
 - tengeri zátony(reef)
 - a brekis (brackish), édesvízi és tengeri keverék egyszerre
 
-## 4. Milyen fajta akvárium fajták vannak?
+## 4. Milyen akvárium fajták vannak?
 
 - Növényes
 - Állatos
 - Kevert
 
-## 5. Milyen fajta akvárium fajták vannak?
+## 5. Milyen akvárium fajták vannak?
 
 - mesterséges
 - természetes (nature)
@@ -70,4 +70,55 @@ Mi van a vízben?
 - oxigén
 - protein
 
-## 11.
+## 11. Milyen akvárium fajták vannak?
+
+- hardscape nélküli
+- "hardscape-elt"
+
+## 12. Milyen akvárium fajták vannak?
+
+- low-tech
+- high-tech
+
+***
+
+## 13. Mi kell még?
+
+- szűrő (külső/belső)
+- szűrőanyag (mechanikus, bio, stb)
+- lily pipe (szívó, nyomó ág)
+- csövek
+- világítás
+- fűtő (ha az udvaron vagy a pincében tartod az akváriumot télen)
+- extra: oxidátor
+- high-tech: CO2 rendszer:
+  - CO2 palack
+  - reduktor
+  - reduktor vezérlő
+  - drop checker
+  - buborékszámláló
+  - buborékszámláló folyadék
+  - cső
+  - visszafolyásgátló
+  - diffuzor
+- extra: növénytáp adagoló
+- extra: haltáp/garnélatáp adagoló
+
+## 14. Hogyan épül fel egy (Nature) akvárium?
+
+- üres akvárium
+- hely ami elbírja az X L(kg) akváriumot
+- akvárium "matrac"
+- táptalaj
+- aljzat
+- hardscape
+  - wood
+  - rock
+- növényzet (előtér, középtér, háttér)
+- jóval később: állatok (csiga, garnéla, hal)
+
+## 15. Milyen akvárium fajták vannak?
+
+- Nature
+- Iwagumi
+- Dutch
