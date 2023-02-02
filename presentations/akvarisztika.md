@@ -124,9 +124,34 @@ Mi van a vízben?
 - Dutch
 
 ![Nature](https://allaboutplantedaquariums.com/wp-content/uploads/2020/05/Nature-Style-12x12x10-in-Low-Tech-Aquascaped-by-Fritz-Rabaya-Philippines-1.jpeg)
+
+***
+
 ![Iwagumi](https://www.adana.co.jp/wp-content/uploads/sites/3/2019/10/adareview_aj287-03.jpg)
+
+***
+
 ![Dutch](https://external-preview.redd.it/9nnUrhv_DZc4xxTt8qw4Pbch4-vSMt8UptLhH-QVmXE.png?format=pjpg&auto=webp&s=7884cfb2710dbba05b4a450240609a0f0e4f0a1d)
 
-## 16. IAPLC("International Aquatic Plants Layout Contest")
+## 16. IAPLC ("International Aquatic Plants Layout Contest")
 
-- https://www.aqualibs.com/news/iaplc-2022-world-ranking-announcement/
+- [Some more pictures](https://www.aqualibs.com/news/iaplc-2022-world-ranking-announcement/)
+
+## 17. Említésre méltó
+
+- Takashi Amano
+- ADA
+- aranymetszés
+
+![Amano exhibition](https://www.adana.co.jp/en/contents/exhibition/img/works01.jpg)
+Amano otthoni akváriuma(W400xD150xH150)
+
+***
+
+![Florestas Submersas](https://www.oceanario.pt/content/img/florestas_submersas_by_takashi_amano_pedro_a._pina_8.jpg)
+A világ legnagyobb Nature akváriuma(40m ~ 160.000L)
+
+***
+
+[Florestas Submersas](https://youtu.be/Kq5D8k4BVXs)
+Hogyan készült a Florestas Submersas.
