@@ -146,12 +146,12 @@ Mi van a vízben?
 - aranymetszés
 
 ![Amano exhibition](https://www.adana.co.jp/en/contents/exhibition/img/works01.jpg)
-Amano otthoni akváriuma(W400xD150xH150)
+Amano otthoni akváriuma (W400xD150xH150)
 
 ***
 
 ![Florestas Submersas](https://www.oceanario.pt/content/img/florestas_submersas_by_takashi_amano_pedro_a._pina_8.jpg)
-A világ legnagyobb Nature akváriuma(40m ~ 160.000L)
+A világ legnagyobb Nature akváriuma (40m ~ 160.000L)
 
 ***
 
@@ -171,5 +171,5 @@ A világ legnagyobb Nature akváriuma(40m ~ 160.000L)
 
 ![2nd new setup](images/aquarium/HT-new_setup-2.jpg)
 ![2nd progress](images/aquarium/HT-progress-2.jpg)
-![3rd new setup](images/aquarium/HT-new_setup-3.jpg)
+![3rd new setup](images/aquarium/HT-new_setup_3.jpg)
 ![3rd progress](images/aquarium/HT-progress-3.jpg)
