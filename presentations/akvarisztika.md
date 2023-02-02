@@ -13,6 +13,8 @@ Mi van a vízben?
 - víz
 - élőlények
 
+![ugly fish](https://preview.redd.it/gerjpc9eq6151.jpg?width=960&crop=smart&auto=webp&v=enabled&s=59ad5ae9f9a751f94238633a7e9fe39647a5170d)
+
 ## 2. Milyen akvárium fajták vannak?
 
 - hideg vízi
