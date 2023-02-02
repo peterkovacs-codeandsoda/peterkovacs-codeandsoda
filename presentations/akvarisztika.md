@@ -140,7 +140,7 @@ Mi van a vízben?
 - és még [bővebben](https://www.2hraquarist.com/blogs/aquascaping-ideas)
 
 
-## 16. IAPLC ("International Aquatic Plants Layout Contest")
+## 16. IAPLC (International Aquatic Plants Layout Contest)
 
 - [Some more pictures](https://www.aqualibs.com/news/iaplc-2022-world-ranking-announcement/)
 
