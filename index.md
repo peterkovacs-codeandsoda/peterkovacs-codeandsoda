@@ -12,3 +12,4 @@
 4. [Unity - The Practical Way](presentations/unity/index.md)
 5. [Black Holes](presentations/blackholes.md)
 6. [Akvarisztika](presentations/akvarisztika.md)
+7. [Algoritmusok](presentations/algorithm.md)
