@@ -74,6 +74,7 @@
 
 ## 11. Big O Notation
 - asymptotic limit of f(x)
+
 ![Big O notation](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/512px-Comparison_computational_complexity.svg.png)
 
 ## 12. Java HashMap
