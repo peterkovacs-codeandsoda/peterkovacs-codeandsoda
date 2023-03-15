@@ -126,3 +126,7 @@
 
 ## 22. Javascript Sort
 - depends on what?
+- Chrome: 10>array.size -> quicksort (unstable)
+
+## 23. Visualize
+- [Timsort](https://www.chrislaux.com/)
