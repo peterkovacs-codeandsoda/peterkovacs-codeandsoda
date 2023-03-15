@@ -129,4 +129,4 @@
 - Chrome: 10>array.size -> quicksort (unstable)
 
 ## 23. Visualize
-- [Timsort](https://www.chrislaux.com/)
+- [Timsort & more](https://www.chrislaux.com/)
