@@ -28,7 +28,7 @@
 - reduction of complexity
 - back tracking
 
-# 4. Classification III.
+## 4. Classification III.
 - constant time: O(1)
 - logarithmic: O(n log n)
 - linear: O(n)
@@ -36,57 +36,93 @@
 - exponential: O(2^n^)
 - factorial: O(n!)
 
-# 5. Data Structures I.
+## 5. Data Structures I.
 - array
 - list
 
-# 6. Data Structures II.
+## 6. Data Structures II.
 - stack
 - queue
 - map/hash table
 
-# 7. Graph Basics
+## 7. Graph Basics
 - vertex
 - edge
 - directional/non-directional
 
-# 8. Tree Basics
+![graph](https://media.geeksforgeeks.org/wp-content/cdn-uploads/undirectedgraph.png)
+
+## 8. Tree Basics
 - vertex -> node (root, leaf)
 - edge -> branch
 
-# 9. Data Structures III.
+![tree](https://media.geeksforgeeks.org/wp-content/uploads/20221124153129/Treedatastructure.png)
+
+## 9. Data Structures III.
 - binary search tree
 - red-black tree
 - b-tree
 - AVL tree
 
-# 10. Common Operations
+![Binary Search Tree](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/1200px-Binary_search_tree.svg.png)
+
+## 10. Common Operations
 - access
 - search
 - insert
 - delete
 
-# 11. Big O Notation
+## 11. Big O Notation
 - asymptotic limit of f(x)
 ![Big O notation](https://en.wikipedia.org/wiki/Big_O_notation#/media/File:Comparison_computational_complexity.svg)
 
-# 12. Java HashMap
+## 12. Java HashMap
 - unordered data
 - hash function
 - array of nodes
 - node: hash, key, value, next(linkedlist)
 - nodes can be TreeNodes: parent, left, right, previous
 
-# 13. Javascript Map
-- why Object is not enough?
+## 13. Javascript Map
+- Object is not enough?
 - ordered by insertion
 - size by default
 - iterable
-- UNDERLYING STRUCTURE?
+- UNDERLYING STRUCTURE? array, set, else?
 
-# 14. Algorithms
--
+## 14. Algorithms
+- sequence of operations
+- task to solve
 
+## 15. What can be a task?
+- search for 'apple'
+- store products in cart
+- calculate estimated total
 
-# 20. Big O Notation
-[Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+## 16. Search For 'apple'
+- depends on
+
+## 17. Common Tasks
+- search
+- sort
+
+## 18. Search Algorithms
+- LMFAO, next time! :)
+
+## 19. Sort Algoritms
+- quicksort
+- mergesort
+- timsort
+- radix sort
+
+[More Sorts](https://en.wikipedia.org/wiki/Sorting_algorithm)
+
+## 20. Big O Notation
+- [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+
+## 21. Java Sort
+- legacy: mergesort
+- current: timsort (thanks Python)
+
+## 22. Javascript Sort
+- depends on what?
