@@ -32,8 +32,8 @@
 - constant time: O(1)
 - logarithmic: O(n log n)
 - linear: O(n)
-- polynomial: O(n^2^)
-- exponential: O(2^n^)
+- polynomial: O(n<sup>2</sup>)
+- exponential: O(2<sup>n</sup>)
 - factorial: O(n!)
 
 ## 5. Data Structures I.
