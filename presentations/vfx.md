@@ -213,20 +213,31 @@
   <img class="comparison-image" src="https://www.fxguide.com/wp-content/uploads/2016/05/CAPCW_TTF_TC0903_POSTVIS-830x436.jpg" alt="">
 </div>
 <script>
-new ImageComparison({
-    container: containerSelector,
-    data: [
-      {
-        image: images[0],
-        label: 'before'
-      },
-      {
-        image: images[1],
-        label: 'after'
+
+    document.addEventListener('DOMContentLoaded', domReady);
+
+    function domReady() {
+      var imageComparisonCollection = document.querySelectorAll('.js-comparison-container');
+      for (var i = 0; i < imageComparisonCollection.length; i++) {
+        var imageWidget = imageComparisonCollection[i];
+        var images = imageWidget.querySelectorAll('.comparison-image');
+        new ImageComparison({
+          container: imageWidget,
+          startPosition: imageWidget.getAttribute('start-position'),
+          data: [
+            {
+              image: images[0],
+              label: 'before'
+            },
+            {
+              image: images[1],
+              label: 'after'
+            }
+          ],
+        });
       }
-    ],
-});
-</script>
+    }
+  </script>
 
 ## 10. VFX Tools
 - Maya, Cinema4D, 3Ds Max, Blender
