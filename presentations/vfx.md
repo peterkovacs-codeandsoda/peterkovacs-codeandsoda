@@ -117,7 +117,7 @@
     margin-top: -10px;
     position: absolute;
     top: 50%;
-    background: url('arrow.png') 0 0 no-repeat;
+    background: url('images/vfx/arrow.png') 0 0 no-repeat;
   }
   .comparison-control:before {
     left: -15px;
