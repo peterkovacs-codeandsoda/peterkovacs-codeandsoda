@@ -59,9 +59,9 @@
 ## 7. Virtual Production
 - GOT: [Game of Thrones Virtual Production with Unreal Engine](https://www.unrealengine.com/en-US/spotlights/virtual-production-on-the-battlegrounds-of-game-of-thrones)
 - Unreal Engine Virtual Production Flow
-![Unreal Engine Virtual Production Flow](https://www.unrealengine.com/en-US/virtual-production)
+![Unreal Engine Virtual Production Flow](images/vfx/ue_virtual_production_flow.jpg)
 - ILM: [StageCraft](https://www.ilm.com/stagecraft/)
 ![StageCraft Mandalorian](https://www.ilm.com/wp-content/uploads/2021/03/StageCraftLED-Mandalorian2.jpg)
 
 ## 8. Film Stock
-- [Euphoria S2](https://www.kodak.com/en/motion/blog-post/euphoria)
+- [Kodak EKTACHROME 5294 - Euphoria S2](https://www.kodak.com/en/motion/blog-post/euphoria)
