@@ -29,13 +29,13 @@
 - VFX
 
 ## 3. VFX Companies
-- Industrial Light & Magic: *Star Wars: Episode IV - A New Hope*
-- Wētā FX: *The Lord of the Rings: The Fellowship of the Ring*
-- Scanline VFX: *300*
-- Digital Domain: *Titanic*
-- DreamWorks Animation: *Shrek*
-- Pixar Animation Studios: *Toy Story*
-- Walt Disney Animation Studios: *Mickey Mouse & Friends*
+- [Industrial Light & Magic](https://www.ilm.com/): *Star Wars: Episode IV - A New Hope*
+- [Wētā FX](https://www.wetafx.co.nz/): *The Lord of the Rings: The Fellowship of the Ring*
+- [Scanline VFX](https://www.scanlinevfx.com/reels/): *300*
+- [Digital Domain](https://digitaldomain.com/): *Titanic*
+- [DreamWorks Animation](https://pibfyc.dreamworks.com/?slug=videos&type=page&id=242): *Shrek*
+- [Pixar Animation Studios](https://www.pixar.com/feature-films-launch): *Toy Story*
+- [Walt Disney Animation Studios](https://disneyanimation.com/): *Mickey Mouse & Friends*
 
 ## 4. Who is Adam "MythBusters" Savage?
 ![Petranaki Arena - Geonosis](images/vfx/Geonosis_arena.jpg)
