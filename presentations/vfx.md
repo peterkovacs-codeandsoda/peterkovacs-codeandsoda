@@ -205,6 +205,7 @@
 
 ## 9. Misc Examples
 ![450k Q-tips as crowd in 'The Phantom Menace'](https://pbs.twimg.com/media/E3uHhYnX0AIgS0p.jpg)
+</br>
 [Blade Runner Opening Scene - Hades landscape](https://youtu.be/nFVcdKa0M9E)
 ![Blade Runner - Hades landscape 1](https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180583_G294.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTFXEBPVO5&Signature=9DXP%2B7yXtECtJCVWzC5p5H8S0Ck%3D&Expires=1683032684)
 ![Blade Runner - Hades landscape 2](https://acmi-website-media-prod.s3.ap-southeast-2.amazonaws.com/media/original_images/P180575_G286.jpg.1200x1200_q85.jpg)
