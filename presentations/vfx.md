@@ -65,3 +65,20 @@
 
 ## 8. Film Stock
 - [Kodak EKTACHROME 5294 - Euphoria S2](https://www.kodak.com/en/motion/blog-post/euphoria)
+
+## 9. Misc Examples
+![450k Q-tips as crowd in 'The Phantom Menace'](https://pbs.twimg.com/media/E3uHhYnX0AIgS0p.jpg)
+
+## 10. VFX Tools
+- Maya, Cinema4D, 3Ds Max, Blender
+- ZBrush
+- Substance Designer, Substance Painter
+- Photoshop
+- After Effects
+- Houdini
+- Nuke
+- Unreal Engine, Unity
+
+## 11. Low-Budget Approach - Blender Only
+- Ian Hubert - Dynamo Dream Series {[1](https://youtu.be/LsGZ_2RuJ2A),[2](https://youtu.be/xlqhdaLhRVY),[3](https://youtu.be/JM_WPiT6NRQ)}
+- [Dynamo Dream Teaser Breakdown](https://youtu.be/FFJ_THGj72U)
