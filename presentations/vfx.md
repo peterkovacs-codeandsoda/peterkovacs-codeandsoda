@@ -3,6 +3,8 @@
     background-image: none;
   }
 </style>
+<link rel="stylesheet" href="assets/vfx/ImageComparison.css">
+<script src="assets/vfx/ImageComparison.js"></script>
 
 # Effects in Motion Pictures
 
@@ -68,6 +70,28 @@
 
 ## 9. Misc Examples
 ![450k Q-tips as crowd in 'The Phantom Menace'](https://pbs.twimg.com/media/E3uHhYnX0AIgS0p.jpg)
+[Blade Runner Opening Scene - Hades landscape](https://youtu.be/nFVcdKa0M9E)
+![Blade Runner - Hades landscape 1](https://xos-prod-media.s3.amazonaws.com/media/collection/image/P180583_G294.jpg.1920x1920_q85.jpg?AWSAccessKeyId=AKIA5NFUCQMTFXEBPVO5&Signature=9DXP%2B7yXtECtJCVWzC5p5H8S0Ck%3D&Expires=1683032684)
+![Blade Runner - Hades landscape 2](https://acmi-website-media-prod.s3.ap-southeast-2.amazonaws.com/media/original_images/P180575_G286.jpg.1200x1200_q85.jpg)
+<div class="js-comparison-container">
+  <img class="comparison-image" src="https://www.fxguide.com/wp-content/uploads/2016/05/CAPCW_TTF__TC0903_PLATE-830x437.jpg" alt="">
+  <img class="comparison-image" src="https://www.fxguide.com/wp-content/uploads/2016/05/CAPCW_TTF_TC0903_POSTVIS-830x436.jpg" alt="">
+</div>
+<script>
+new ImageComparison({
+    container: containerSelector,
+    data: [
+      {
+        image: images[0],
+        label: 'before'
+      },
+      {
+        image: images[1],
+        label: 'after'
+      }
+    ],
+});
+</script>
 
 ## 10. VFX Tools
 - Maya, Cinema4D, 3Ds Max, Blender
