@@ -13,3 +13,4 @@
 5. [Black Holes](presentations/blackholes.md)
 6. [Akvarisztika](presentations/akvarisztika.md)
 7. [Algoritmusok](presentations/algorithm.md)
+8. [Visual Effects](presentations/vfx.md)
