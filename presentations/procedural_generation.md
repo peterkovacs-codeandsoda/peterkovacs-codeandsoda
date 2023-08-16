@@ -43,3 +43,17 @@
 - search-based: evolutionary content
 - procedurally artistic-content: visual art, music, poetry, architectures
 - PG gameplay
+
+## 6. PCG in Practice
+- mazes
+- cellular automata
+- L-System
+- diamond-square algorithm
+- dungeons
+  - Voronoi-Delaunay triangulation
+  - rain-drop
+- fire propagation
+- artificial life
+- fluid dynamics
+- reaction-diffusion system
+- music (Hidden Markov Models)
