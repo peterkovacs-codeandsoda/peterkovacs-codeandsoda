@@ -57,6 +57,6 @@
 - music (Hidden Markov Models)
 
 ## 7. Extreme PCG
-- Elite Dangerous (400 billion [10<sup>9</sup>] star systems; without PCG: 1KB/star system -> 400TB)
+- Elite Dangerous (400 billion [10<sup>9</sup>] star systems; without PCG: ~1KB/star system -> 400TB)
 - The Lord of the Rings: MASSIVE -> crowd and fight generation
-- No Man's Sky: 18 quintillion planets (10<sup>18</sup>)
+- No Man's Sky: 18 quintillion [10<sup>18</sup>] planets
