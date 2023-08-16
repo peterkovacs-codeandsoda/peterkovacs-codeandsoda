@@ -28,8 +28,6 @@
 - 2006: Dwarf's Fortress - The state-of-the art fantasy PCG based game (weather, biome, geological distribution of materials, plate tectonics, wind and water erosion; full history, world population, races, cities; poetry, monsters, animals, events, cities, etc.)
 - 2009: Minecraft - 140M monthly players, $3 billion revenue (Dawn of the modern era of PCG)
 
-- 2014: Elite Dangerous (400 billion star systems; without PCG: 1KB/star system -> 400TB)
-
 ## 4. Modern PCG
 - runtime random level generation (Minecraft, Spelunky, Diablo)
 - design of level content (used in design phase, not visible in final products)
@@ -57,3 +55,8 @@
 - fluid dynamics
 - reaction-diffusion system
 - music (Hidden Markov Models)
+
+## 7. Extreme PCG
+- Elite Dangerous (400 billion [10<sup>9</sup>] star systems; without PCG: 1KB/star system -> 400TB)
+- The Lord of the Rings: MASSIVE -> crowd and fight generation
+- No Man's Sky: 18 quintillion planets (10<sup>18</sup>)
