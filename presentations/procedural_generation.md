@@ -52,9 +52,11 @@
 ![mazes](https://cdn1.epicgames.com/ue/product/Screenshot/Algorithms-1920x1080-e05da6c961f3c4c6f72a761cc965c09b.png)
 
 - cellular automata
+<br/>
 ![cellular automata](https://upload.wikimedia.org/wikipedia/commons/e/e2/One-d-cellular-automate-rule-30.gif)
 
 - L-System
+<br/>
 ![L-System](https://www.csh.rit.edu/~aidan/PortfolioAssets/Trees.png)
 
 - diamond-square algorithm
