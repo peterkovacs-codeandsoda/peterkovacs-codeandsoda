@@ -78,6 +78,8 @@
 ![reaction-diffusion system](https://www.karlsims.com/rd-4examples.png)
 
 - music (Hidden Markov Models)
+- mimic real life scenarios(Poisson Distribution)
+![Poisson Distribution](images/procgen/poisson.png)
 
 ## 7. Extreme PCG
 - Elite Dangerous (400 billion [10<sup>9</sup>] star systems; without PCG: ~1KB/star system -> 400TB)
