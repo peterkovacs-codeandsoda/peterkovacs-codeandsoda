@@ -50,12 +50,16 @@
 ## 6. PCG in Practice
 - mazes
 ![mazes](https://cdn1.epicgames.com/ue/product/Screenshot/Algorithms-1920x1080-e05da6c961f3c4c6f72a761cc965c09b.png)
+
 - cellular automata
 ![cellular automata](https://upload.wikimedia.org/wikipedia/commons/e/e2/One-d-cellular-automate-rule-30.gif)
+
 - L-System
 ![L-System](https://www.csh.rit.edu/~aidan/PortfolioAssets/Trees.png)
+
 - diamond-square algorithm
 ![diamond-square algorithm](https://upload.wikimedia.org/wikipedia/commons/f/f7/-PLASMA-ColorCycling.Gif)
+
 - dungeons
   - Voronoi-Delaunay triangulation
   - rain-drop
@@ -64,12 +68,15 @@
 - fluid dynamics
 - reaction-diffusion system
 ![reaction-diffusion system](https://www.karlsims.com/rd-4examples.png)
+
 - music (Hidden Markov Models)
 
 ## 7. Extreme PCG
 - Elite Dangerous (400 billion [10<sup>9</sup>] star systems; without PCG: ~1KB/star system -> 400TB)
-![Elite Dangerous](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fprpffvja44m81.jpg)
+![Elite Dangerous](https://i.ytimg.com/vi/Omzs4ui9RpI/maxresdefault.jpg)
+
 - The Lord of the Rings: MASSIVE -> crowd and fight generation
 ![The Lord of the Rings](https://i.stack.imgur.com/VQ8ge.jpg)
+
 - No Man's Sky: 18 quintillion [10<sup>18</sup>] planets
-![No Man's Sky](https://static.wikia.nocookie.net/nomanssky_gamepedia/images/0/01/Ww_ap10_1.png)
+![No Man's Sky](https://staticg.sportskeeda.com/editor/2022/04/e48f2-16506657911274-1920.jpg)
