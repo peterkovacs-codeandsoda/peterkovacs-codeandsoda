@@ -93,7 +93,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 - 1676: First measure the speed of light
 - 1783: definition of dark star - escape velocity > speed of light
 - 1900: black-body radiation
-- 1095: photoelectric effect (Eintstein - Nobel Prize 1921)
+- 1905: photoelectric effect (Eintstein - Nobel Prize 1921)
 
 <br/>
 ![Stellar Evolution](https://upload.wikimedia.org/wikipedia/commons/4/47/Star_Life_Cycle_Chart.jpg)
