@@ -92,6 +92,12 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 - 1054: SN 1054 - Crab Nebula
 - 1676: First measure the speed of light
 - 1783: definition of dark star - escape velocity > speed of light
+- 1900: black-body radiation
+- 1095: photoelectric effect (Eintstein - Nobel Prize 1921)
+
+<br/>
+![Stellar Evolution](https://upload.wikimedia.org/wikipedia/commons/4/47/Star_Life_Cycle_Chart.jpg)
+<br/>
 
 ## 1. Relativity
 
@@ -213,7 +219,7 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 - Take a photo
 
 ![First black hole photo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/360px-Black_hole_-_Messier_87_crop_max_res.jpg)
-- Hawking radiation
+- Hawking radiation (1974, 2022)
 
 ## 7. Nobel Prize
 - 2017: LIGO
