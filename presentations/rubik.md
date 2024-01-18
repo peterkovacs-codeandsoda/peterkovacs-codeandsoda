@@ -98,7 +98,7 @@
 - 2005: Jeans Pons - 15.10s
 - 2015: First Sub-5 Lucas Etter - 4.90s
 - 2018: Yusheng Du - 3.47s
-- 2023: Max Park - ![3.13s](https://youtu.be/gh8HX4itF_w?si=5gTjwOmWxZEJ8WXV)
+- 2023: Max Park - [3.13s](https://youtu.be/gh8HX4itF_w?si=5gTjwOmWxZEJ8WXV)
 
 ## 11. Cube Championships
 - from 2003 Cube Championship happens in every 2 years
