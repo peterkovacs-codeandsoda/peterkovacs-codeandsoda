@@ -34,11 +34,13 @@
 - 1980: Toy of the Year - Best Puzzle [Germany, UK, France, US]
 - 1981: Game of the Year - Best Puzzle [Finland, Sweden, US]
 - 1981: Patrick Bossert - You Can Do the Cube [13 years old wrote an offical solution guide]
-- 1982: MOMA NY selected Rubik's Cube into permanent collection
+- 1982: MOMA NY selected Rubik's Cube into its permanent collection
+- 2005: 25 years of the Rubik's Cube - 3rd World Championship
 
 ## 3. Some Statistics
 - 1980-1983: 200 million cubes sold
 - 2021: 450 million cubes sold
+- 2023: 500 million cube sold
 - best selling puzzle worldwide
 - best selling toy worldwide
 
@@ -46,11 +48,12 @@
 - 1982 - Budapest
 - 19 countries
 - the first official speedcubing championship
-- 1st place: Minh Thai [US] - 22.95
-- 3rd place: Zoltán Lábas [HU] - 24.49
-- 17th place: Piotr Serbenski [PL] - 37.50
-- 18th place: Svilen Tenev [BG] - 47.29
-- 19th place: Josef Trajber [AT] - 50.16
+- 1st place: Minh Thai [US] - 22.95s
+- 3rd place: Zoltán Lábas [HU] - 24.49s
+- 17th place: Piotr Serbenski [PL] - 37.50s
+- 18th place: Svilen Tenev [BG] - 47.29s
+- 19th place: Josef Trajber [AT] - 50.16s
+
 
 
 ## 5. Cube Math
@@ -64,4 +67,15 @@
 - P: PLL (Permutate last layer)
 
 
-![CFOP method](https://pbs.twimg.com/media/E6zVXUoVoAMHlSY.jpg)
+![CFOP method](images/cfop.jpg)
+
+## 7. Speedcubing Milestones
+- 1982: Minh Thai - 22.95s
+- 2005: Jeans Pons - 15.10s
+- 2015: First Sub-5 Lucas Etter - 4.90s
+- 2018: Current WR - Yusheng Du - 3.47s
+
+## 8. Top Speedcubing Brands
+- GAN
+- MoYu
+- Rubik's
