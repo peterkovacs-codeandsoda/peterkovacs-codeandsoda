@@ -11,14 +11,14 @@
 }
 
 // BASIC HTML AND BODY STYLES
-html, body {
+html, bodry {
   height: 100%;
   position: relative;
   background-color: #111;
   font-size: 100px;
 }
 
-body {
+bodry {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -112,8 +112,7 @@ body {
   }
 }
 </style>
-
-
+<div class="bodry">
 <div class="scene">
   <div class="cube">
     <div class="face front">
@@ -183,6 +182,7 @@ body {
       <div class="cell"></div>
     </div>
   </div>
+</div>
 </div>
 
 
