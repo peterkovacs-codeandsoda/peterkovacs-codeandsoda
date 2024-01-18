@@ -10,7 +10,7 @@
   position: absolute;
   left: 0;
   top: 0;
-  height: 246px;
+  height: 245px;
   width: 100%;
   background-image: url("images/cube-tiles.png");
   background-repeat: repeat;
