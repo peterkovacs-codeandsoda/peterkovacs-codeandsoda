@@ -15,3 +15,4 @@
 7. [Algoritmusok](presentations/algorithm.md)
 8. [Visual Effects](presentations/vfx.md)
 9. [Procedural Generation](presentations/procedural_generation.md)
+10. [Rubik's Cube](presentations/rubik.md)
