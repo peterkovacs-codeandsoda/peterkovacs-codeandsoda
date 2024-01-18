@@ -91,7 +91,7 @@
 - FRULBD
 - F'R'U'L'B'D'
 - F2...
-- 3. O(rient) alg: L shape - L'B'LR'U'RUL'BL
+- 3rd OLL alg: L shape - L'B'LR'U'RUL'BL
 
 ## 10. Speedcubing Milestones
 - 1982: Minh Thai - 22.95s
