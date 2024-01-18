@@ -4,6 +4,8 @@
 }
 
 .cube {
+  position: absolute;
+  left: 0;
   height: 246px;
   width: 100%;
   background-image: url("images/cube-tiles.png");
