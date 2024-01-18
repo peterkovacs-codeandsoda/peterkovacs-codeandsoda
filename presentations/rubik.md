@@ -6,6 +6,8 @@
 .cube {
   position: absolute;
   left: 0;
+  top: 0;
+  opacity: 0.5;
   height: 246px;
   width: 100%;
   background-image: url("images/cube-tiles.png");
