@@ -32,7 +32,7 @@
 - 1980: International debut as Rubik's Cube
 - 1980: Toy of the Year - Best Puzzle [Germany, UK, France, US]
 - 1981: Game of the Year - Best Puzzle [Finland, Sweden, US]
-- 1981: Patrick Bossert - You Can Do the Cube [13 years old wrote an offical solution guide]
+- 1981: Patrick Bossert - You Can Do the Cube [13 years old wrote a solution guide]
 - 1982: MOMA NY selected Rubik's Cube into its permanent collection
 - 2005: 25 years of the Rubik's Cube - 3rd World Championship
 
@@ -42,7 +42,7 @@
 - 2023: 500 million cube sold
 - best selling puzzle worldwide
 - best selling toy worldwide
-- Most expensive: Masterpiece Cube - $2.5 million
+- most expensive: Masterpiece Cube - $2.5 million
 
 <br/>
 ![Masterpiece Cube](https://www.cubelelo.com/cdn/shop/articles/image4_888ab580-3a7d-4668-b2f9-7f0a50c3f4ee.jpg)
@@ -97,9 +97,18 @@
 - 1982: Minh Thai - 22.95s
 - 2005: Jeans Pons - 15.10s
 - 2015: First Sub-5 Lucas Etter - 4.90s
-- 2018: Current WR - Yusheng Du - 3.47s
+- 2018: Yusheng Du - 3.47s
+- 2023: Max Park - ![3.13s](https://youtu.be/gh8HX4itF_w?si=5gTjwOmWxZEJ8WXV)
 
-## 11. Top Speedcubing Brands
+## 11. Cube Championships
+- from 2003 Cube Championship happens in every 2 years
+- speed
+- fewest moves
+- blindfolded
+- one handed (speed alternative)
+- with feet
+
+## 12. Top Speedcubing Brands
 - GAN
 - MoYu
 - Tornado
