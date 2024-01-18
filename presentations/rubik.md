@@ -28,7 +28,6 @@
 - Original name: Magic Cube
 - Original colors: white, blue, red, orange, green, yellow
 
-
 ## 2. Pop Culture Icon
 - 1980: International debut as Rubik's Cube
 - 1980: Toy of the Year - Best Puzzle [Germany, UK, France, US]
@@ -43,6 +42,11 @@
 - 2023: 500 million cube sold
 - best selling puzzle worldwide
 - best selling toy worldwide
+- Most expensive: Masterpiece Cube - $2.5 million
+
+<br/>
+![Masterpiece Cube](https://www.cubelelo.com/cdn/shop/articles/image4_888ab580-3a7d-4668-b2f9-7f0a50c3f4ee.jpg)
+<br/>
 
 ## 4. First Rubik's Cube World Championship
 - 1982 - Budapest
@@ -54,10 +58,10 @@
 - 18th place: Svilen Tenev [BG] - 47.29s
 - 19th place: Josef Trajber [AT] - 50.16s
 
-
-
 ## 5. Cube Math
--
+- The 3x3x3 has a lot of possible patterns: 43.252.003.274.489.856.000 (43 quintillion - 43 * 10<sup>18</sup>)
+- Computer can solve in [20 moves (God's number)](https://cube20.org/)
+- Humans usually solve in 50-60 moves
 
 ## 6. Revolution of Speedcubing
 - 1997: Jessica Fridrich invented CFOP
@@ -66,16 +70,38 @@
 - O: OLL (Orient last layer)
 - P: PLL (Permutate last layer)
 
-
+<br/>
 ![CFOP method](images/cfop.jpg)
+<br/>
 
-## 7. Speedcubing Milestones
+## 7. Big Four
+- 1981: Petrus (1st WC - 4th place) ~ 45-50 average move count
+- 1997: CFOP ~ 55-60 average move count
+- 2003: Roux ~ 45-50 average move count
+- 2006: ZZ 45-55 average move count
+- lower move count&#8800faster
+
+## 8. CFOP Again
+- C: average 6, max 8 moves
+- F: average 4*7 moves
+- O: 57 algorithms
+- P: 21 algorithms
+
+## 9. Notation
+- FRULBD
+- F'R'U'L'B'D'
+- F2...
+- 3. O(rient) alg: L shape - L'B'LR'U'RUL'BL
+
+## 10. Speedcubing Milestones
 - 1982: Minh Thai - 22.95s
 - 2005: Jeans Pons - 15.10s
 - 2015: First Sub-5 Lucas Etter - 4.90s
 - 2018: Current WR - Yusheng Du - 3.47s
 
-## 8. Top Speedcubing Brands
+## 11. Top Speedcubing Brands
 - GAN
 - MoYu
+- Tornado
 - Rubik's
+- and many more...
