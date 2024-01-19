@@ -79,7 +79,7 @@
 - 1997: CFOP ~ 55-60 average move count
 - 2003: Roux ~ 45-50 average move count
 - 2006: ZZ 45-55 average move count
-- lower move count&#8800faster
+- lower move count &#8800; faster
 
 ## 8. CFOP Again
 - C: average 6, max 8 moves
